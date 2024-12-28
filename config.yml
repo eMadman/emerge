@@ -1,0 +1,14 @@
+---
+project_name:  smartspin2k
+loglevel: info
+analyses:
+- analysis_name: smartspin2k check
+  source_directory: d:/git/smartspin2k
+  .
+  .
+  .
+  export:
+  - directory: d:/tools/emerge/export
+  .
+  .
+  .
